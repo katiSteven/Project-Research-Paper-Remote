@@ -6,4 +6,4 @@
 	-> all the PDF Files available inside this location using any browser / PDF viewer to view the changes (sticky notes & highlights) made to them.
 	
 # Create Research Paper Reference Sections.url
-	-> Created a link to a google doc called Research Paper Reference sections. This should contain all the information about 		the places from where we are gathering information for our recearch paper.
+	-> Created a link to a google doc called Research Paper Reference sections. This should contain all the information about the places from where we are gathering information for our recearch paper.
